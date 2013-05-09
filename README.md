@@ -1,7 +1,7 @@
-Processing GLSL Experiment
+Processing GLSL Experiments
 =====================
 
-Assorted code experiments with GLSL in Processing.
+Assorted GLSL experiments in Processing 1.5.1 (with the GLGraphics library) and Processing 2.0b8.
 
 ####HemeshCubeMap
 Convert a HE_Mesh to a GLGraphics' GLModel and apply an environment cubeMap GLSL shader to it.
