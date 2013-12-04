@@ -1,5 +1,5 @@
 
-#version 330
+#version 150
 
 layout(triangles) in;
 layout(triangle_strip) out;

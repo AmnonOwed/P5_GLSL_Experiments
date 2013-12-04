@@ -1,5 +1,5 @@
 
-#version 330
+#version 150
 
 #define PROCESSING_COLOR_SHADER
 

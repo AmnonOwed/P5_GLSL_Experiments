@@ -1,5 +1,5 @@
 
-#version 330
+#version 150
 
 uniform mat4 transform;
 uniform mat3 normalMatrix;
